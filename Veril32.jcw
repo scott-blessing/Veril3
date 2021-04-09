@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Veril3</label>
+		<id>11</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Veril32.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Veril3.jcp</path>
+		</project>
+	</projects>
+</workspace>
